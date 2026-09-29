@@ -922,8 +922,7 @@ local _foddusksl=_rzwlyymowg(_mlexjeyfz,_xsqazlvaqw())
 local _ciqcqakskz=_dhtuhdvw(_foddusksl,_nncywjoygxal)
 local _fbbhjzgmj=_rzwlyymowg(_ciqcqakskz,_nmlysoqsw())
 if _dhbgiduz("fbbhjzgmj")~=_fxsxzffxea then
-  if _dhbgiduz("fbbhjzgmj") ~= _fxsxzffxea then
- 
+  if _dhbgiduz("fbbhjzgmj") ~= _fxsxzffxea then 
 end
 end
 _qwevtgzoal=nil; _qttrdgodxeqb=nil; _lfkwyurpomxl=nil; _brftxwfa=nil; _cunndjesm=nil; _iouszggu=nil; _jiiukktgiebn=nil; _mlexjeyfz=nil; _foddusksl=nil; _ciqcqakskz=nil
