@@ -922,7 +922,7 @@ local _foddusksl=_rzwlyymowg(_mlexjeyfz,_xsqazlvaqw())
 local _ciqcqakskz=_dhtuhdvw(_foddusksl,_nncywjoygxal)
 local _fbbhjzgmj=_rzwlyymowg(_ciqcqakskz,_nmlysoqsw())
 if _dhbgiduz("fbbhjzgmj")~=_fxsxzffxea then
-    error("MomentumHub: integrity check failed")
+    error("MomentumHub: integrity check failed") end
 end
 _qwevtgzoal=nil; _qttrdgodxeqb=nil; _lfkwyurpomxl=nil; _brftxwfa=nil; _cunndjesm=nil; _iouszggu=nil; _jiiukktgiebn=nil; _mlexjeyfz=nil; _foddusksl=nil; _ciqcqakskz=nil
 local _namfsfmgck=(_mkgfhyez['lo'..'adstring']) or loadstring or _mkgfhyez.load
